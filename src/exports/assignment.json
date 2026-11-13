@@ -1,0 +1,43 @@
+{
+ "mssv": "202603226",
+ "ten": "LuongVanQuyen",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "quyen",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000057978.jpg",
+  "000000177889.jpg",
+  "000000196283.jpg",
+  "000000205650.jpg",
+  "000000463932.jpg",
+  "000000090646.jpg",
+  "000000091637.jpg",
+  "000000193879.jpg",
+  "000000123544.jpg",
+  "000000307757.jpg",
+  "000000106051.jpg",
+  "000000326480.jpg"
+ ],
+ "faces": [
+  "face_300399.jpg",
+  "face_559185.jpg",
+  "face_92028.jpg",
+  "face_264124.jpg",
+  "face_442231.jpg",
+  "face_168953.jpg",
+  "face_13874.jpg",
+  "face_333134.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 10,
+   "job_id": 10,
+   "task_name": "persons-LuongVanQuyen"
+  },
+  "faces": {
+   "task_id": 11,
+   "job_id": 11,
+   "task_name": "faces-LuongVanQuyen"
+  }
+ }
+}
